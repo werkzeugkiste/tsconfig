@@ -1,4 +1,4 @@
-# @werkzeugkiste/tsconfig [alpha]
+# @werkzeugkiste/tsconfig <img src="https://raw.githubusercontent.com/werkzeugkiste/tsconfig/master/typescript.svg?sanitize=true" height="40" align="right">
 
 A shared [TypeScript](https://www.typescriptlang.org) config for [@werkzeugkiste](https://www.github.com/werkzeugkiste). 
 
@@ -14,7 +14,7 @@ yarn add --dev @werkzeugkiste/tsconfig
 npm install --save-dev @werkzeugkiste/tsconfig
 ```
 
-Then add an `tsconfig.json` file to the root of your project:
+Then add a `tsconfig.json` file to the root of your project:
 
 ```json
 {
