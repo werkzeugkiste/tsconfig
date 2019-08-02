@@ -1,0 +1,24 @@
+{
+  "name": "@werkzeugkiste/tsconfig",
+  "version": "1.0.0-alpha.0",
+  "publishConfig": {
+    "access": "public",
+    "tag": "alpha"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:werkzeugkiste/tsconfig.git"
+  },
+  "keywords": [],
+  "author": "Manuel Bieh <info@manuelbieh.de> (https://www.manuelbieh.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/werkzeugkiste/tsconfig/issues"
+  },
+  "homepage": "https://github.com/werkzeugkiste/tsconfig#readme"
+}
