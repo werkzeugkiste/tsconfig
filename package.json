@@ -6,15 +6,11 @@
     "tag": "alpha"
   },
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:werkzeugkiste/tsconfig.git"
   },
-  "keywords": [],
+  "keywords": ["typescript", "config", "tsconfig", "werkzeugkiste"],
   "author": "Manuel Bieh <info@manuelbieh.de> (https://www.manuelbieh.de/)",
   "license": "MIT",
   "bugs": {
